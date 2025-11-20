@@ -6,4 +6,6 @@ This is an example
 
 -- git switch -c mame: create name and switch to it in one go
 
+-- git branch -d name: will delete the branch name
+
 -- git fecth --prune: allows to delete branches already merged
